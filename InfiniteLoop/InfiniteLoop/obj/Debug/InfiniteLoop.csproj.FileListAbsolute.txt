@@ -1,0 +1,7 @@
+C:\Users\Andrew Smith\Desktop\InfiniteLoop\InfiniteLoop\bin\Debug\InfiniteLoop.exe.config
+C:\Users\Andrew Smith\Desktop\InfiniteLoop\InfiniteLoop\bin\Debug\InfiniteLoop.exe
+C:\Users\Andrew Smith\Desktop\InfiniteLoop\InfiniteLoop\bin\Debug\InfiniteLoop.pdb
+C:\Users\Andrew Smith\Desktop\InfiniteLoop\InfiniteLoop\obj\Debug\InfiniteLoop.csprojAssemblyReference.cache
+C:\Users\Andrew Smith\Desktop\InfiniteLoop\InfiniteLoop\obj\Debug\InfiniteLoop.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Smith\Desktop\InfiniteLoop\InfiniteLoop\obj\Debug\InfiniteLoop.exe
+C:\Users\Andrew Smith\Desktop\InfiniteLoop\InfiniteLoop\obj\Debug\InfiniteLoop.pdb

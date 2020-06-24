@@ -1,0 +1,7 @@
+C:\Users\Andrew Smith\Desktop\ListSelect\ListSelect\bin\Debug\ListSelect.exe.config
+C:\Users\Andrew Smith\Desktop\ListSelect\ListSelect\bin\Debug\ListSelect.exe
+C:\Users\Andrew Smith\Desktop\ListSelect\ListSelect\bin\Debug\ListSelect.pdb
+C:\Users\Andrew Smith\Desktop\ListSelect\ListSelect\obj\Debug\ListSelect.csprojAssemblyReference.cache
+C:\Users\Andrew Smith\Desktop\ListSelect\ListSelect\obj\Debug\ListSelect.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Smith\Desktop\ListSelect\ListSelect\obj\Debug\ListSelect.exe
+C:\Users\Andrew Smith\Desktop\ListSelect\ListSelect\obj\Debug\ListSelect.pdb
